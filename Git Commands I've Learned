@@ -1,0 +1,17 @@
+# Clone a repository
+git clone [repository-url]
+
+# Check status
+git status
+
+# Add files to staging
+git add .
+
+# Commit changes
+git commit -m "Your commit message"
+
+# Push to GitHub
+git push origin main
+
+# Pull latest changes
+git pull origin main
