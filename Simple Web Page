@@ -1,0 +1,11 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First GitHub Page</title>
+</head>
+<body>
+    <h1>Welcome to My First Repository!</h1>
+    <p>This is my introduction to GitHub and web development.</p>
+</body>
+</html>
